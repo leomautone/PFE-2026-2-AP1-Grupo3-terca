@@ -13,7 +13,8 @@ O protótipo tem dois fluxos iniciais: **"Site — PKZ / One to One"** (começa 
 
 ## Decisões de design
 
-- **Paleta:** azul-marinho e branco nas duas marcas. A PKZ usa um azul mais vivo e a One to One um azul mais sóbrio, e a diferença entre as marcas vem do tom do azul, do texto e das fotos (ver brainstorm, Bloco 4).
+- **Paleta:** azul-marinho e branco nas duas marcas, a partir do azul do logo oficial da PKZ (#000080). A PKZ usa um azul mais vivo e a One to One um azul mais sóbrio, e a diferença entre as marcas vem do tom do azul, do texto e das fotos (ver brainstorm, Bloco 4).
+- **Logo:** o logo oficial da PKZ aparece na navbar, no footer, no card da Home, na sidebar do sistema e no topo do relatório, em azul sobre fundos claros e em branco sobre fundos escuros.
 - **Tipografia:** Oswald (títulos condensados, estilo esportivo) + Inter (textos).
 - **PKZ fala com os pais:** como o público é infantil/adolescente, quem decide é o responsável. A página prioriza confiança, clareza sobre o acompanhamento e o relatório mensal.
 - **Contato humano:** toda automação mostra também um ponto de contato com a equipe (recado do professor, botão de WhatsApp, confirmação pela equipe), conforme pedido do cliente.
