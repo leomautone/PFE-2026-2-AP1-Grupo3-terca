@@ -30,11 +30,12 @@ Propor uma solução digital que centralize os dados dos alunos em um sistema ú
 - Relatório em formato visual (gráfico de evolução), não em texto corrido
 - Resumo automático do treino anterior ao abrir o perfil do aluno
 - Redesenho da interface com identidade visual coesa entre as duas marcas
-- Site institucional com hub inicial dividido entre PKZ e One to One
+- Site institucional com hero section na tela inicial; ao rolar a página, aparecem as duas marcas lado a lado, e o usuário escolhe seguir para a página da PKZ ou da One to One
+- Agendamento pelo calendário: ao clicar em um dia, abre uma mini tela (modal) para informar nome, horário e telefone de contato — confirmado pelo cliente após o levantamento inicial
 
 **Fica de fora por enquanto:**
-- Agendamento, cobrança financeira e notificações automáticas por WhatsApp — por orientação do professor Thiago, que pediu para aguardar confirmação do cliente sobre esses pontos antes de detalhá-los
-- Cadastro, login e qualquer tela que exija dados pessoais — decisão do próprio grupo, por envolver informações pessoais fora do escopo acadêmico atual
+- Cobrança financeira e notificações automáticas por WhatsApp — por orientação do professor Thiago, que pediu para aguardar confirmação do cliente sobre esses pontos antes de detalhá-los
+- Cadastro, login e telas de dados pessoais além do mínimo do agendamento (nome e telefone) — decisão do próprio grupo, por envolver informações pessoais fora do escopo acadêmico atual; no protótipo, todos os dados são fictícios
 - Serviço de scout esportivo automatizado — tratado como proposta exploratória (diferencial), não como requisito essencial desta entrega
 
 ## 4. Público-alvo / stakeholders
@@ -48,7 +49,7 @@ Propor uma solução digital que centralize os dados dos alunos em um sistema ú
 
 - O cliente foi enfático: a automação dos processos não pode significar perda da relação humana com o aluno e seus responsáveis — toda funcionalidade automatizada deve manter algum ponto de contato pessoal.
 - O projeto é acadêmico, com prazo interno do grupo até 22/09/2026 e apresentação oficial em 29/09/2026, o que limita o nível de aprofundamento técnico possível nesta etapa.
-- Funcionalidades que dependem de confirmação do cliente (agendamento, pagamento, WhatsApp) ou que envolvem dados pessoais (cadastro/login) não fazem parte do escopo desenvolvido nesta entrega, apenas do escopo futuro.
+- Funcionalidades que dependem de confirmação do cliente (pagamento, WhatsApp) ou que envolvem dados pessoais (cadastro/login) não fazem parte do escopo desenvolvido nesta entrega, apenas do escopo futuro.
 
 ## 6. Arquitetura técnica dos dashboards (complemento)
 

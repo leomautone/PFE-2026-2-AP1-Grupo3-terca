@@ -3,7 +3,7 @@
 Elaborado a partir das 13 demandas do cliente (`docs/entrevista/02-demandas-v2.md`). Organizado por bloco temático, com cada ideia marcada como:
 - **[E] Essencial** — resolve algo que o cliente pediu diretamente
 - **[D] Diferencial** — vai além do pedido, impressiona na apresentação
-- **[F2] Fase 2** — depende de confirmação do cliente (Thiago pediu pra segurar agendamento, pagamento e WhatsApp por enquanto); fica registrado como ideia, mas não entra no protótipo ainda
+- **[F2] Fase 2** — depende de confirmação do cliente (Thiago pediu pra segurar pagamento e WhatsApp por enquanto); fica registrado como ideia, mas não entra no protótipo ainda. *O agendamento foi confirmado pelo cliente e passou a ser Essencial (item 13).*
 
 ---
 
@@ -28,13 +28,14 @@ Elaborado a partir das 13 demandas do cliente (`docs/entrevista/02-demandas-v2.m
 
 9. **[E]** Redesenho da interface do app atual com identidade visual coesa entre PKZ e One to One (hoje o cliente descreve como "amador")
 10. **[E]** Site institucional com hub inicial dividido entre as duas marcas (PKZ e One to One) — clicando em cada lado, vai pra página específica daquela marca (sobre nós, depoimentos)
+    - **Pedido do cliente:** a tela inicial abre com uma **hero section** (tela cheia, apresentação da empresa). Só ao **rolar a página pra baixo** aparecem as duas marcas lado a lado, e é ali que o usuário escolhe o caminho: página da PKZ ou página da One to One
 
-**Referência real de marca (Instagram @playmakerz_pkz — "PKZ LAB | Alta Performance"):** logo em azul-marinho com um foguete em laranja/vermelho como destaque, fotos de treino/performance ao fundo, tom "alta performance". Isso vira a base da paleta em vez de cor genérica.
+**Referência real de marca (Instagram @playmakerz_pkz — "PKZ LAB | Alta Performance"):** logo em azul-marinho com um foguete em laranja/vermelho como destaque, fotos de treino/performance ao fundo, tom "alta performance". O azul-marinho do logo vira a base da paleta em vez de cor genérica.
 
 **Direção criativa definida pro hub (vibe esportiva/enérgica, mesma família visual, dados em destaque):**
-   - Antes mesmo da divisão PKZ/One to One, uma faixa de destaque no topo com **números agregados das duas marcas** (ex.: "140+ alunos ativos", "16 testes físicos aplicados por atleta", "X anos de experiência") — números com efeito de contagem animada, reforçando a ideia de dados/resultados como primeira impressão
-   - Paleta base: **azul-marinho** como cor de fundo/estrutura (herdada da identidade real da PKZ), com **laranja/vermelho** como cor de destaque (botões, ícones, números) — mesma paleta nas duas marcas, mudando só a intensidade/tom de destaque entre PKZ e One to One pra diferenciar sem perder a família visual
-   - Layout, tipografia e grid **iguais** nas duas metades do hub; o que muda é o tom de destaque de cada lado e o texto/imagem de cada marca
+   - Antes mesmo da divisão PKZ/One to One, uma faixa de destaque (dentro ou logo abaixo da hero) com **números agregados das duas marcas** (ex.: "140+ alunos ativos", "16 testes físicos aplicados por atleta", "X anos de experiência") — números com efeito de contagem animada, reforçando a ideia de dados/resultados como primeira impressão
+   - Paleta base: **azul-marinho e branco** — azul-marinho como cor de fundo/estrutura (herdada da identidade real da PKZ) e branco para textos, cards e contraste — mesma paleta nas duas marcas, diferenciando PKZ e One to One pelo tom do azul, pelo texto e pelas fotos de cada marca, sem perder a família visual
+   - Layout, tipografia e grid **iguais** nas duas metades do hub; o que muda é o tom do azul de cada lado e o texto/imagem de cada marca
    - Fotos/vídeo em loop de treino real ao fundo de cada metade, transmitindo movimento — tipografia condensada/bold, no estilo de marca esportiva (como o logo real já sugere, com o ícone de foguete remetendo a "alta performance"/lançamento)
    - Ao passar o mouse (ou tocar, no celular) em cada lado, uma pequena animação ou frase de efeito daquela marca aparece, reforçando a energia antes mesmo do clique
    - Depoimentos com "prova social por número" em vez de só texto — juntar a frase do aluno com um dado concreto (ex.: *"Aumentei 23% a velocidade em 3 meses — João, 14 anos"*), unindo a força do dado com o toque humano
@@ -48,9 +49,14 @@ Elaborado a partir das 13 demandas do cliente (`docs/entrevista/02-demandas-v2.m
 
 12. **[D]** Interface pensada pra marcação assistida de eventos de jogo (passes, finalizações) que hoje é feita manualmente assistindo vídeo — não precisa resolver 100%, mas mostrar uma direção de como isso poderia ficar mais rápido
 
+## Bloco 7 — Agendamento *(confirmado pelo cliente)*
+
+13. **[E]** Tela de agendamento com **calendário**: ao clicar em um dia específico, abre uma **mini tela (modal)** onde o usuário informa **nome**, **horário** (entre os disponíveis naquele dia) e **telefone** para contato — aprimora o agendamento autônomo que o cliente já considera o ponto mais forte do app atual (demanda #10)
+    - *A confirmar com o cliente: se há mais algum campo no modal (ex.: unidade, professor ou tipo de treino)*
+
 ---
 
-*Obs.: notificações via WhatsApp, cobrança financeira, agendamento e qualquer tela que exija dados pessoais (ex.: cadastro/login) não entraram neste brainstorm — os três primeiros por orientação do Thiago (aguardando confirmação do cliente), e cadastro/login porque envolve informação pessoal que o grupo decidiu deixar de fora por enquanto.*
+*Obs.: notificações via WhatsApp, cobrança financeira e qualquer tela de cadastro/login não entraram neste brainstorm — os dois primeiros por orientação do Thiago (aguardando confirmação do cliente), e cadastro/login porque envolve informação pessoal que o grupo decidiu deixar de fora por enquanto. O agendamento, antes nessa lista, foi confirmado pelo cliente e entrou como item 13; no protótipo, o modal usa apenas dados fictícios.*
 
 ## Princípio transversal (vale pra todas as ideias acima)
 
@@ -60,5 +66,5 @@ Elaborado a partir das 13 demandas do cliente (`docs/entrevista/02-demandas-v2.m
 
 ## Priorização sugerida pro grupo
 
-**Essencial (fazer primeiro, base do 5W2H e do protótipo):** itens 1, 3, 4, 5, 8, 9, 10
+**Essencial (fazer primeiro, base do 5W2H e do protótipo):** itens 1, 3, 4, 5, 8, 9, 10, 13
 **Diferencial (se der tempo):** itens 2, 6, 7, 11, 12
