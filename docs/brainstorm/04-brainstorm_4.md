@@ -30,7 +30,7 @@ Elaborado a partir das 13 demandas do cliente (`docs/entrevista/02-demandas-v2.m
 10. **[E]** Site institucional com hub inicial dividido entre as duas marcas (PKZ e One to One) — clicando em cada lado, vai pra página específica daquela marca (sobre nós, depoimentos)
     - **Pedido do cliente:** a tela inicial abre com uma **hero section** (tela cheia, apresentação da empresa). Só ao **rolar a página pra baixo** aparecem as duas marcas lado a lado, e é ali que o usuário escolhe o caminho: página da PKZ ou página da One to One
 
-**Referência real de marca (Instagram @playmakerz_pkz — "PKZ LAB | Alta Performance"):** logo em azul-marinho com um foguete em laranja/vermelho como destaque, fotos de treino/performance ao fundo, tom "alta performance". O azul-marinho do logo vira a base da paleta em vez de cor genérica.
+**Referência real de marca (logos oficiais da PKZ):** identidade 100% azul-marinho e branco, com o ícone de foguete como elemento central. Sem cor de destaque secundária — a força visual vem do contraste azul-marinho/branco e do ícone do foguete, com tom "alta performance". Isso vira a base da paleta em vez de cor genérica.
 
 **Direção criativa definida pro hub (vibe esportiva/enérgica, mesma família visual, dados em destaque):**
    - Antes mesmo da divisão PKZ/One to One, uma faixa de destaque (dentro ou logo abaixo da hero) com **números agregados das duas marcas** (ex.: "140+ alunos ativos", "16 testes físicos aplicados por atleta", "X anos de experiência") — números com efeito de contagem animada, reforçando a ideia de dados/resultados como primeira impressão
