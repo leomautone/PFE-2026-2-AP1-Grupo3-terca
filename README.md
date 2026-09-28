@@ -4,12 +4,13 @@ Projeto da disciplina **Projeto Front-end** (2026.2), avaliação AP1, com apres
 
 ## Integrantes
 
-- Leonardo Camero (líder)
+- Leonardo Camero
 - David Madureira
 - Santiago Alejo
 - João Duarte
 - Pedro Henrique Godoy
 - Kaue Reis
+- Arthur Aires
 
 ## Sobre o projeto
 
