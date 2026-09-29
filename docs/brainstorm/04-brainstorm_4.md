@@ -60,3 +60,5 @@ Elaborado a partir das 13 demandas do cliente (`docs/entrevista/02-demandas-v2.m
 
 ## Princípio transversal (vale pra todas as ideias acima)
 
+> O cliente foi enfático: **automatizar não pode significar perder a relação humana com o aluno/responsável.** Toda ideia de automação deve manter algum ponto de contato pessoal. Não é pra virar um sistema 100% frio.
+
