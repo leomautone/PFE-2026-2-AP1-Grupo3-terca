@@ -19,7 +19,7 @@ A PKZ e a One to One (duas marcas da mesma empresa, estúdios de treinamento esp
 
 ## 2. Objetivo da solução
 
-Propor uma solução digital que centralize os dados dos alunos em um sistema único, automatize a geração de relatórios em formato visual (sem depender de prompts manuais de IA), e ofereça um site institucional com identidade visual coesa entre PKZ e One to One — mantendo, em todas as automações propostas, um ponto de contato humano entre professores, alunos e responsáveis, conforme pedido explícito do cliente.
+Propor uma solução digital que centralize os dados dos alunos em um sistema único, automatize a geração de relatórios em formato visual (sem depender de prompts manuais de IA), aprimore o agendamento autônomo dos alunos e ofereça um site institucional com identidade visual coesa entre PKZ e One to One — mantendo, em todas as automações propostas, um ponto de contato humano entre professores, alunos e responsáveis, conforme pedido explícito do cliente.
 
 ## 3. Escopo
 
