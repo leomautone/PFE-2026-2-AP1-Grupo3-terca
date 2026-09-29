@@ -48,7 +48,6 @@ Propor uma solução digital que centralize os dados dos alunos em um sistema ú
 ## 5. Restrições
 
 - O cliente foi enfático: a automação dos processos não pode significar perda da relação humana com o aluno e seus responsáveis — toda funcionalidade automatizada deve manter algum ponto de contato pessoal.
-- O projeto é acadêmico, com prazo interno do grupo até 22/09/2026 e apresentação oficial em 29/09/2026, o que limita o nível de aprofundamento técnico possível nesta etapa.
 - Funcionalidades que dependem de confirmação do cliente (pagamento, WhatsApp) ou que envolvem dados pessoais (cadastro/login) não fazem parte do escopo desenvolvido nesta entrega, apenas do escopo futuro.
 
 ## 6. Arquitetura técnica dos dashboards (complemento)
