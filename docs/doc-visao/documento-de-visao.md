@@ -62,4 +62,4 @@ Essa divisão é o que permite substituir o processo manual via prompt de IA: um
 
 ---
 
-**Fontes utilizadas:** `docs/entrevista/01-transcricao-v1.md`, `docs/entrevista/02-demandas-v2.md`, brainstorm do grupo e `docs/5w2h/5w2h.md`.
+**Fontes utilizadas:** `docs/entrevista/01-transcricao-v1.md`, `docs/entrevista/02-demandas-v2.md`, brainstorm e `docs/5w2h/5w2h.md`.
