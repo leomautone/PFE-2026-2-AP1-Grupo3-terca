@@ -84,7 +84,8 @@ Este documento detalha, em forma de árvore hierárquica, os principais fluxos q
   4. Na mini tela do dia, informar nome e telefone
   5. Selecionar o horário
   6. Confirmar o agendamento
-    6.1. Ver o resumo do agendamento confirmado
+    6.1. Se faltar algum campo, ver a mensagem de erro e completar o que falta
+    6.2. Ver o resumo do agendamento confirmado
 ```
 
 **Relação com o projeto:** aprimora o agendamento autônomo, sem precisar perguntar se tem vaga, que o cliente considera o ponto mais forte do app atual (item 13 do brainstorm / Ação 8 do 5W2H).

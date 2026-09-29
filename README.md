@@ -29,4 +29,5 @@ docs/
   doc-visao/
   aht/
   prototipo/
+  scrum/
 ```
