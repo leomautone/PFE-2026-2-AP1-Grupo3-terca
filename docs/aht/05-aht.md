@@ -44,16 +44,18 @@ Este documento detalha, em forma de árvore hierárquica, os principais fluxos q
 
 ```
 0. Encontrar informações da marca desejada
-  1. Acessar a página inicial (hub)
-  2. Visualizar números agregados das duas marcas
-  3. Identificar visualmente PKZ e One to One
-  4. Clicar no lado da marca desejada
-  5. Navegar pela página específica
-    5.1. Ver "sobre nós"
-    5.2. Ver depoimentos/relatos
+  1. Acessar a página inicial
+  2. Ver a hero section de apresentação da empresa
+  3. Rolar a página para baixo
+    3.1. Visualizar números agregados das duas marcas
+  4. Identificar visualmente PKZ e One to One
+  5. Clicar no card da marca desejada
+  6. Navegar pela página específica
+    6.1. Ver "sobre nós"
+    6.2. Ver depoimentos/relatos
 ```
 
-**Relação com o projeto:** estrutura do hub institucional dividido por marca (item 10 do brainstorm / Ação 7 do 5W2H).
+**Relação com o projeto:** página inicial com hero section e escolha entre as marcas ao rolar (item 10 do brainstorm / Ação 7 do 5W2H).
 
 ---
 
@@ -72,7 +74,25 @@ Este documento detalha, em forma de árvore hierárquica, os principais fluxos q
 
 ---
 
+## 5. Aluno agenda um treino pelo calendário
+
+```
+0. Agendar treino
+  1. Acessar a área de agendamento
+  2. (opcional) Filtrar por estúdio (PKZ ou One to One)
+  3. Escolher um dia com horários disponíveis no calendário
+  4. Na mini tela do dia, informar nome e telefone
+  5. Selecionar o horário
+  6. Confirmar o agendamento
+    6.1. Ver o resumo do agendamento confirmado
+```
+
+**Relação com o projeto:** aprimora o agendamento autônomo, sem precisar perguntar se tem vaga, que o cliente considera o ponto mais forte do app atual (item 13 do brainstorm / Ação 8 do 5W2H).
+
+---
+
 ## Observações
 
-- Os quatro fluxos acima cobrem os quatro perfis de usuário do sistema: professor, aluno, visitante e coordenação.
-- Assim como no restante da proposta, nenhum fluxo aqui depende de cadastro, login, agendamento, pagamento ou WhatsApp; funcionalidades fora do escopo atual por orientação do Thiago e decisão do grupo.
+- Os cinco fluxos acima cobrem os quatro perfis de usuário do sistema: professor, aluno, visitante e coordenação.
+- O agendamento (fluxo 5) foi confirmado pelo cliente e pede apenas nome e telefone, sem cadastro ou login.
+- Nenhum fluxo aqui depende de cadastro, login, pagamento ou notificações automáticas por WhatsApp; funcionalidades fora do escopo atual por orientação do Thiago e decisão do grupo.

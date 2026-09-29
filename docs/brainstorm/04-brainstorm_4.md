@@ -63,8 +63,3 @@ Elaborado a partir das 13 demandas do cliente (`docs/entrevista/02-demandas-v2.m
 > O cliente foi enfático: **automatizar não pode significar perder a relação humana com o aluno/responsável.** Toda ideia de automação deve manter algum ponto de contato pessoal — não é pra virar um sistema 100% frio.
 
 ---
-
-## Priorização sugerida pro grupo
-
-**Essencial (fazer primeiro, base do 5W2H e do protótipo):** itens 1, 3, 4, 5, 8, 9, 10, 13
-**Diferencial (se der tempo):** itens 2, 6, 7, 11, 12
